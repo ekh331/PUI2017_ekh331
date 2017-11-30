@@ -17,4 +17,7 @@ critiquing each plot's clarity, aesthetic, and honesty. Improvements were sugges
 
 ## Part 2: Due after Thanksgiving
 <p>
-This section will be updated as this part of the assignment is completed.
+This assignment was an exercise in geopandas and US census data. Data were acquired of PUMA regions and merged with
+data concerning the LinkNYC free Internet stations around the city. Through processing and merging of multiple
+dataframes, maps were created detailing the extent of household broadband Internet access across the city in addition
+to the geographic distribution and density of LinkNYC stations.
