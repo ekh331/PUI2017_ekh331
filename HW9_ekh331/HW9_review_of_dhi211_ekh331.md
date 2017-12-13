@@ -41,3 +41,11 @@ plots of different data sets. If possible, decrease the grid size of the real es
 data or extract the raster values into polygons. A title and caption would be useful.
 It would be interesting to see these school construction values
 against school zone boundaries! 
+
+# FBB ok
+
+the zoom level of the static image cuts out a portion of NYC! that is a no-no especially in a map that shows a large amount of land which is not relevant to the analysis. this issue propagates to the online viz since the zoo level of the map on carto depends on the window size upon accessing it. 
+
+the color maps are chosen poorly as one ends with yellow, the oter begins with yellow. So the smallest dots are invisible in yellow regions. This significantly affect clarity and possibl honsety
+
+9/10
