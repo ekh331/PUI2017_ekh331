@@ -48,4 +48,6 @@ the zoom level of the static image cuts out a portion of NYC! that is a no-no es
 
 the color maps are chosen poorly as one ends with yellow, the oter begins with yellow. So the smallest dots are invisible in yellow regions. This significantly affect clarity and possibl honsety
 
+also why is the legend in soft-focus?
+
 9/10
