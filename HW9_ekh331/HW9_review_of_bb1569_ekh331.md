@@ -28,6 +28,11 @@ to have a color gradient within the warmer and cooler groups unless it has some
 statistical meaning (such as if every standard deviation from the mean got a bar
 that was darker in color). Some of the lighter colors are hard to read at all.
 
+# FBB 
+good point: never display the same info with two different variables: in the best case scenario it enforces the perception, but an appropriate representation will lead to near-linear perception thus enforcing it would lead to misleading understanding. 
+In the worst case scenario it becomes confusing. 
+
+
 
 ## Honesty
 
@@ -42,3 +47,8 @@ This approach makes it obvious that there are more warmer years as time goes on,
 it emphasizes counting the years as opposed to temperature trends. Consider
 that a simple time series line plot would have shown the trend of average 
 temperature increase more clearly.
+
+# FBB 
+fair comments. what you have missed is that the labels are literally illegible, between the size and the low resolution of the plot (likely this is a screenshot leading to terrible resolution, instead of using figsave() )
+
+9/10
